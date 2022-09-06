@@ -1,0 +1,15 @@
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\bin\Debug\net6.0\workthree002.exe
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\bin\Debug\net6.0\workthree002.deps.json
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\bin\Debug\net6.0\workthree002.runtimeconfig.json
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\bin\Debug\net6.0\workthree002.dll
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\bin\Debug\net6.0\workthree002.pdb
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.csproj.AssemblyReference.cache
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.AssemblyInfoInputs.cache
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.AssemblyInfo.cs
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.csproj.CoreCompileInputs.cache
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.dll
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\refint\workthree002.dll
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.pdb
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\workthree002.genruntimeconfig.cache
+C:\Users\maxip\OneDrive\Рабочий стол\WorkThree\workthree002\obj\Debug\net6.0\ref\workthree002.dll
